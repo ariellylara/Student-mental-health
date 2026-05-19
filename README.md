@@ -23,7 +23,7 @@ General overview of:
 - Specialist treatment seeking behavior
 ## Dashboard Preview
 
-![Dashboard 1 Preview](dashboard1-preview.png)
+![Dashboard 1 Preview](images/dashboard1-preview.png)
 
 ### Page 2, Exploratory Insights
 Focused analysis of:
@@ -32,7 +32,7 @@ Focused analysis of:
 - Comparative patterns between academic programs and student ages
 ## Dashboard Preview
 
-![Dashboard 2 Preview](dashboard2-preview.png)
+![Dashboard 2 Preview](images/dashboard2-preview.png)
 
 ## Key Insights
 
